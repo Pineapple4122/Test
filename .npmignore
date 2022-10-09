@@ -1,0 +1,7 @@
+/node_modules
+/example
+/data
+/packages
+/src
+package-lock.json
+webpack.config.js
